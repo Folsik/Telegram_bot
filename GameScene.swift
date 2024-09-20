@@ -224,3 +224,4 @@ class GameScene: SKScene, SKPhysicsContactDelegate{
         }
     }
 }
+var asdqw = int 
